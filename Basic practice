@@ -1,0 +1,13 @@
+🧪 You can practice these directly:
+
+1. Load data
+df = pd.read_csv("day1_pandas_practice.csv")
+
+2. Missing values
+df.isnull().sum()
+
+3. Filter age > 30
+df[df['age'] > 30]
+
+4. Group by department
+df.groupby('department')['salary'].mean()
