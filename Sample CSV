@@ -1,0 +1,9 @@
+employee_id,name,age,department,salary
+1,Amit,25,IT,50000
+2,Priya,30,HR,60000
+3,Rahul,,IT,55000
+4,Sneha,45,Finance,
+5,Kiran,28,HR,52000
+6,Anu,,IT,58000
+7,Vijay,35,Finance,
+8,Meena,40,HR,61000
