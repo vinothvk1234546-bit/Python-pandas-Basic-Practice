@@ -1,0 +1,21 @@
+order_id,customer_id,customer_name,age,gender,city,product,category,price,quantity,order_date,payment_method,discount,final_amount
+1001,C001,Amit,25,Male,Chennai,Laptop,Electronics,55000,1,2024-01-10,UPI,5000,50000
+1002,C002,Priya,30,Female,Bangalore,Phone,Electronics,20000,2,2024-01-12,Credit Card,2000,38000
+1003,C003,Rahul,,Male,Hyderabad,Headphones,Electronics,3000,3,2024-01-15,Cash,,9000
+1004,C004,Sneha,45,Female,Chennai,Shoes,Fashion,2500,2,2024-01-18,Debit Card,500,4500
+1005,C002,Priya,30,Female,Bangalore,Laptop,Electronics,55000,1,2024-01-20,UPI,5000,50000
+1006,C005,Kiran,28,Male,Mumbai,T-shirt,Fashion,800,5,2024-01-22,Cash,,4000
+1007,C006,Anu,,Female,Delhi,Watch,Accessories,3000,1,2024-01-25,Credit Card,300,2700
+1008,C007,Vijay,35,Male,Chennai,Phone,Electronics,20000,1,2024-01-28,UPI,,20000
+1009,C008,Meena,40,Female,Bangalore,Handbag,Fashion,3500,1,2024-02-01,Debit Card,500,3000
+1010,C001,Amit,25,Male,Chennai,Laptop,Electronics,55000,1,2024-02-03,UPI,5000,50000
+1011,C009,Arun,29,Male,Hyderabad,Tablet,Electronics,15000,1,2024-02-05,Credit Card,,15000
+1012,C010,Divya,32,Female,Mumbai,Shoes,Fashion,2500,2,2024-02-08,Cash,200,4800
+1013,C011,Ramesh,50,Male,Delhi,TV,Electronics,40000,1,2024-02-10,UPI,4000,36000
+1014,C012,Latha,27,Female,Chennai,Watch,Accessories,3000,1,2024-02-12,Debit Card,,3000
+1015,C003,Rahul,,Male,Hyderabad,Headphones,Electronics,3000,2,2024-02-15,Cash,,6000
+1016,C013,Kumar,38,Male,Bangalore,Laptop,Electronics,55000,1,2024-02-18,Credit Card,5000,50000
+1017,C014,Pooja,26,Female,Mumbai,Handbag,Fashion,3500,2,2024-02-20,UPI,,7000
+1018,C015,Sanjay,41,Male,Delhi,Phone,Electronics,20000,1,2024-02-22,Cash,1000,19000
+1019,C016,Nisha,33,Female,Chennai,Shoes,Fashion,2500,1,2024-02-25,Debit Card,,2500
+1020,C001,Amit,25,Male,Chennai,Laptop,Electronics,55000,1,2024-02-28,UPI,5000,50000
